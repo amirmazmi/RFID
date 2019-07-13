@@ -11,6 +11,11 @@ python3 -m pip install spidev
 python3 -m pip install mfrc522
 
 
+<br><br>
+### To explore
+1. Proxmark3
+
+
 <br><br><br>
 ### Below are backup repos
 
