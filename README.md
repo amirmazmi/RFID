@@ -5,7 +5,10 @@ Exploring RFID using any tools possible including PiZero, RC522.
 
 Guide:<br>
 https://pimylifeup.com/raspberry-pi-rfid-rc522/
+<br><br>
 
+python3 -m pip install spidev  
+python3 -m pip install mfrc522
 
 
 <br><br><br>
